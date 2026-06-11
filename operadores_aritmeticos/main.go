@@ -24,6 +24,5 @@ func main(){
 	decremento:= numero1
 	decremento -= numero2
 	fmt.Printf("O decremento de %d com %d é %d",numero1, numero2, decremento )
-
-
+	fmt.Print("Finalizados")
 }
